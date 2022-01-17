@@ -1,0 +1,66 @@
+# SSAFY 6기 2학기 1주차 개인 공부 정리
+
+<hr>
+pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내용을 정리한 템플릿 입니다.
+
+2022.01.09 ~ 2022.01.14
+
+<br>
+
+## 1일차 (화요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법     |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | ------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 6 시간   | [React 기초 part.1](taehun_study_notes/JavaScript관련 공부/React 공부/React 기초 part.1.md) | 인강 & 구글링 |
+| <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> | :white_check_mark: | 1 시간   | [git 공부](taehun_study_notes/git 공부)                      | 구글링        |
+
+
+
+## 2일차 (수요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법     |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | ------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 7 시간   | [React 기초 part.2](taehun_study_notes/JavaScript관련 공부/React 공부/React 기초 part.2.md)<br />[registration-practice](taehun_study_notes/JavaScript관련 공부/React 공부/registration-practice) | 인강 & 구글링 |
+| <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> | :white_check_mark: | 2 시간   | [TypeScript 기초 part.1](taehun_study_notes/JavaScript관련 공부/TypeScript 공부/TypeScript 기초 part.1.md) | 인강 & 구글링 |
+
+
+
+## 3일차 (목요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법 |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | --------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 3 시간   | [React 스타일 가이드](taehun_study_notes/JavaScript관련 공부/React 공부/React 스타일 가이드.md) | 구글링    |
+| web RTC                                                      | :white_check_mark: | 2 시간   | [WebSocket 기초](taehun_study_notes/webRTC 공부/WebSocket 기초.md) | 구글링    |
+
+
+
+## 4일차 (금요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법     |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | ------------- |
+| <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> | :white_check_mark: | 1.5 시간 | [Firebase 기초](taehun_study_notes/Firebase 공부/Firebase 기초.md) | 인강 & 구글링 |
+|                                                              |                    |          |                                                              |               |
+
+<hr>
+
+<br>
+
+<br>
+
+<br>
+
+# SSAFY 6기 2학기 2주차 개인 공부 정리
+
+<hr>
+2022.01.16 ~ 2022.01.21
+<br>
+
+## 1일차 (일요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법       |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | --------------- |
+| <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1"> | :white_check_mark: | 1.5 시간 | [JS신박API모음](taehun_study_notes/JavaScript관련 공부/JS신박API모음.md) | 유튜브 & 구글링 |
+| <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> | :white_check_mark: | 0.5 시간 | [ExpressJS기초](taehun_study_notes/JavaScript관련 공부/express js 공부/express js 기초.md) | 유튜브 & 구글링 |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 1.5 시간 | [React신박기능모음](taehun_study_notes/JavaScript관련 공부/React 공부/React신박기능모음.md) | 유튜브 & 구글링 |
+| <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black"> | :white_check_mark: | 1 시간   | [Pug 기초](taehun_study_notes/JavaScript관련 공부/pug 공부/pug 기초.md) | 유튜브 & 구글링 |
+
