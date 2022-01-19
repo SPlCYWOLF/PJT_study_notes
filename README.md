@@ -83,3 +83,12 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 | ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | --------------- |
 | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"> | :white_check_mark: | 5 시간   | [WireFrame 초안](https://www.figma.com/file/fOMdPJYC2rcAGGKtw4aSP0/rough_draft_1?node-id=0%3A1) | 유튜브 & 구글링 |
 
+
+
+## 4일차 (수요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법 |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | --------- |
+| DX                                                           | :white_check_mark: | 1 시간   | [클린코드 팁](taehun_study_notes/DX관련 공부/클린코드팁.md)  | 유튜브    |
+| <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> | :white_check_mark: | 1.5 시간 | [nextjs 기초](taehun_study_notes/JavaScript관련 공부/nextjs 공부/nextjs 기초.md) | 구글링    |
+
