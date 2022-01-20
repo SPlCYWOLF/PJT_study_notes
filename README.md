@@ -92,3 +92,12 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 | DX                                                           | :white_check_mark: | 1 시간   | [클린코드 팁](taehun_study_notes/DX관련 공부/클린코드팁.md)  | 유튜브    |
 | <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"> | :white_check_mark: | 1.5 시간 | [nextjs 기초](taehun_study_notes/JavaScript관련 공부/nextjs 공부/nextjs 기초.md) | 구글링    |
 
+
+
+## 5일차 (목요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법        |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | --------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 1.5 시간 | [로그인구현연습](taehun_study_notes/JavaScript관련 공부/React 공부/React 로그인 구현 연습) | 유튜브 & 구글링 |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 5 시간   | [회원가입구현연습](taehun_study_notes/JavaScript관련 공부/React 공부/React 회원가입 구현 연습.md) | 유튜브 & 구글링 |
+
