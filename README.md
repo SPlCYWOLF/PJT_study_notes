@@ -1,6 +1,6 @@
 # PJT n.1
 
-## 1주차 개인 공부 정리
+## 1주차 공부 정리
 
 <hr>
 pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내용을 정리한 템플릿 입니다.
@@ -41,7 +41,6 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 | 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                                    | 학습 방법     |
 | ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | ------------- |
 | <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> | :white_check_mark: | 1.5 시간 | [Firebase 기초](taehun_study_notes/Firebase 공부/Firebase 기초.md) | 인강 & 구글링 |
-|                                                              |                    |          |                                                              |               |
 
 <hr>
 <br>
@@ -50,7 +49,7 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 
 <br>
 
-## 2주차 개인 공부 정리
+## 2주차 공부 정리
 
 <hr>
 2022.01.16 ~ 2022.01.21
@@ -97,8 +96,8 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 
 | 구분                                                         | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법        |
 | ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | --------------- |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 1.5 시간 | [로그인구현연습](taehun_study_notes/JavaScript관련 공부/React 공부/React 로그인 구현 연습) | 유튜브 & 구글링 |
-| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 5 시간   | [회원가입구현연습](taehun_study_notes/JavaScript관련 공부/React 공부/React 회원가입 구현 연습.md) | 유튜브 & 구글링 |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 1.5 시간 | [로그인구현연습1](taehun_study_notes/JavaScript관련 공부/React 공부/구현 연습/React 로그인1.md) | 유튜브 & 구글링 |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 5 시간   | [회원가입구현연습1](taehun_study_notes/JavaScript관련 공부/React 공부/구현 연습/React 회원가입1.md) | 유튜브 & 구글링 |
 
 
 
@@ -107,4 +106,33 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 | 구분                                                         | 진행상태             | 학습시간 | 참고기록                                                     | 학습방법        |
 | ------------------------------------------------------------ | -------------------- | -------- | ------------------------------------------------------------ | --------------- |
 | <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"> | :white_large_square: | 7 시간   | [tailswindcss 연습](taehun_study_notes\CSS관련 공부\Tailwindcss\tailwindcss 폼만들기 연습.md) | 유튜브 & 구글링 |
+
+<hr>
+
+<br>
+
+<br>
+
+## 3주차 공부 정리
+
+<hr>
+
+2022.01.24 ~ 2022.01.28
+
+## 1일차 (월요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법 |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | -------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 4 시간   | [로그인구현연습2](taehun_study_notes/JavaScript관련 공부/React 공부/구현 연습/React 로그인2.md) | 구글링   |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 6 시간   | [회원가입구현연습2](taehun_study_notes/JavaScript관련 공부/React 공부/구현 연습/React 회원가입2.md) | 구글링   |
+
+
+
+## 2일차 (화요일)
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법 |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | -------- |
+| Data 크롤링                                                  | :white_check_mark: | 1.5 시간 | [Data크롤링 기초](taehun_study_notes/Data크롤링 공부/Data크롤링 기초.md) | 인강     |
+| 서버                                                         | :white_check_mark: | 1 시간   | [서버구축 기초](taehun_study_notes\Server관련 공부\서버 구축\서버구축 기초.md) | 인강     |
+| <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> | :white_check_mark: | 1 시간   | [AWS EC2구축 기초](taehun_study_notes\Server관련 공부\서버 구축\AWS EC2구축 기초.md) | 인강     |
 
