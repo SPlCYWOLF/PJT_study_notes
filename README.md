@@ -136,3 +136,12 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 | 서버                                                         | :white_check_mark: | 1 시간   | [서버구축 기초](taehun_study_notes\Server관련 공부\서버 구축\서버구축 기초.md) | 인강     |
 | <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> | :white_check_mark: | 1 시간   | [AWS EC2구축 기초](taehun_study_notes\Server관련 공부\서버 구축\AWS EC2구축 기초.md) | 인강     |
 
+
+
+## 3일차 (수요일)
+
+| 구분    | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법 |
+| ------- | ------------------ | -------- | ------------------------------------------------------------ | -------- |
+| webRTC  | :white_check_mark: | 2 시간   | [webRTC 연결과정](taehun_study_notes/webRTC 공부/WebRTC 연결과정.md) | 구글링   |
+| Kurento | :white_check_mark: | 3 시간   | [Kurento 기초](taehun_study_notes/webRTC 공부/Kurento 기초.md) | 구글링   |
+
