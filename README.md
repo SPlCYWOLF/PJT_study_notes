@@ -160,3 +160,22 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 | 서버 | :white_check_mark: | 3 시간   | [https로 로컬서버켜기](taehun_study_notes/Server관련 공부/로컬환경에 https적용하기.md) | 구글링   |
 |      |                    |          |                                                              |          |
 
+<hr>
+
+<hr>
+
+
+<br>
+
+<br>
+
+## 부록
+
+| 구분             | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법 |
+| ---------------- | ------------------ | -------- | ------------------------------------------------------------ | -------- |
+| webRTC + Kurento | :white_check_mark: | 5일      | [Kurento활용한 N:M WebRTC구현](taehun_study_notes/webRTC 공부/Kurento활용한_다대다_WebRTC구현.md) | 구글링   |
+|                  |                    |          |                                                              |          |
+|                  |                    |          |                                                              |          |
+
+
+
