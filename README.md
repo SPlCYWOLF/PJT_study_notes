@@ -171,11 +171,11 @@ pjt-I 1주차 명세서를 참고하며 개인 학습을 진행하고 배운 내
 
 ## 부록
 
-| 구분             | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법 |
-| ---------------- | ------------------ | -------- | ------------------------------------------------------------ | -------- |
-| webRTC + Kurento | :white_check_mark: | 5일      | [Kurento활용한 N:M WebRTC구현](taehun_study_notes/webRTC 공부/Kurento활용한_다대다_WebRTC구현.md) | 구글링   |
-|                  |                    |          |                                                              |          |
-|                  |                    |          |                                                              |          |
+| 구분                                                         | 진행상태           | 학습시간 | 참고기록                                                     | 학습방법             |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------------------------ | -------------------- |
+| webRTC + Kurento                                             | :white_check_mark: | 5일      | [Kurento활용한 N:M WebRTC구현](taehun_study_notes/webRTC 공부/Kurento활용한_다대다_WebRTC구현.md) | 구글링               |
+| <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"> | :white_check_mark: | 1일      | [aws ec2로 프론트 배포 기초](taehun_study_notes/Server관련 공부/aws_ec2로react배포관련지식.md) | 구글링, 유튜브, 인강 |
+|                                                              |                    |          |                                                              |                      |
 
 
 
