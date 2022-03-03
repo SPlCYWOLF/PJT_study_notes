@@ -45,3 +45,20 @@
 | IPFS | :white_check_mark: | 5시간    | [IPFS vs HTTP](study_notes/IPFS vs HTTP.md) | 인강, 구글링 |
 |      |                    |          |                                             |              |
 
+<br>
+
+<br>
+
+## 2주차
+
+<hr>
+
+### 3일차
+
+| 구분                                                         | 진행상태           | 학습시간 | 참고 기록                                   | 학습방법       |
+| ------------------------------------------------------------ | ------------------ | -------- | ------------------------------------------- | -------------- |
+| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 2시간    | [리액트팁모음](study_notes/리액트팁모음.md) | 유튜브, 구글링 |
+|                                                              |                    |          |                                             |                |
+
+
+
