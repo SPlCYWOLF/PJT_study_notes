@@ -60,5 +60,17 @@
 | <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> | :white_check_mark: | 2시간    | [리액트팁모음](study_notes/리액트팁모음.md) | 유튜브, 구글링 |
 |                                                              |                    |          |                                             |                |
 
+<br>
 
+<br>
 
+## 3주차
+
+<hr>
+
+### 1일차
+
+| 구분          | 진행상태           | 학습시간 | 참고 기록                                                   | 학습방법 or 활용 도구 |
+| ------------- | ------------------ | -------- | ----------------------------------------------------------- | --------------------- |
+| 와이어 프레임 | :white_check_mark: | 4시간    | [소개페이지제작.md](study_notes/소개페이지제작.md)          | figma                 |
+| 와이어 프레임 | :white_check_mark: | 4시간    | [배송지입력페이지제작](study_notes/배송지입력페이지제작.md) | figma                 |
