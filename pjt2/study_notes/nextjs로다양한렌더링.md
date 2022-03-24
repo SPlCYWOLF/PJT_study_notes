@@ -26,7 +26,7 @@
 - 잠깐, 어느정도 실시간성을 부여하기 위해서 Incremental Static Regeneration도 좋지 않을까?
 - 하지만 ISR은 `atomic` and `immutable` 배포의 구조를 허문다.   [참조](https://www.netlify.com/blog/2021/03/08/incremental-static-regeneration-its-benefits-and-its-flaws/)
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/aece2f9f-5555-43b5-b050-7eff7e42990b/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220322T145021Z&X-Amz-Expires=86400&X-Amz-Signature=97b1f2018ea10d5b8b627627ba7dcc8a988b3969529327f8db5143cb6e9e9ca2&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img src="nextjs로다양한렌더링.assets/111.png/">
 
 ### atomic & immutable 배포 모델
 
@@ -34,7 +34,7 @@
 2. 고로 디버깅도 수월하다
 3. hybrid rendering (ISR) 활용 못함 ⇒ 낮은 UX고점 but 안전
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/a2bf776a-14ce-40b9-958a-0f1e651aa4cb/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220322%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220322T145052Z&X-Amz-Expires=86400&X-Amz-Signature=2ed4eaf7d17f321b8e1e61db8a1ecb05c571c306ceaa9f2a485f4f72d6db35b8&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22Untitled.png%22&x-id=GetObject">
+<img src="nextjs로다양한렌더링.assets/222.png">
 
 ###  반대 모델
 
