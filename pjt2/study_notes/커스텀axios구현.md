@@ -102,4 +102,3 @@ Send.post('/user/login', JSON.stringify(data))
 	console.log("실패!");
 });
 ```
-
