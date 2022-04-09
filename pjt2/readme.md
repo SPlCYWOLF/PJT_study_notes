@@ -200,5 +200,6 @@
 | 블록체인 | :white_check_mark: | 1.5시간  | [blockchain쿼리방법](study_notes/blockchain쿼리방법.md)      | 팀원 지식 공유 |
 | HTTPS    | :white_check_mark: | 4시간    | [netERR_CERT_AUTHORITY_INVALID 해결사례](study_notes/netERR_CERT_AUTHORITY_INVALID 해결사례.md) | 팀원 지식 공유 |
 | CS 공부  | :white_check_mark: | 2 시간   | [What_is_Process](study_notes/강의/What_is_Process.md)       | 팀원 지식 공유 |
+| CS 공부  | :white_check_mark: | 1.5 시간 | []()                                                         |                |
 
 <br>
